@@ -21,7 +21,7 @@ To get started with Devil Crawler, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/devil-crawler.git
-   cd devil-crawler
+   git clone https://github.com/abhishekjoshi266/DevilCrawler
+   cd DevilCrawler
    chmod +x DevilCrawler.py
    python3 DevilCrawler.py
